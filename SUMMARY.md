@@ -8,3 +8,7 @@
 * [bot.musicStartCommand](obratnye-vyzovy/bot.musicstartcommand.md)
 * [Untitled](obratnye-vyzovy/untitled.md)
 
+## Функции
+
+* [$allEmojiCount](funkcii/usdallemojicount.md)
+
