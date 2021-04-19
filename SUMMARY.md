@@ -6,7 +6,8 @@
 
 * [bot.musicEndCommand](obratnye-vyzovy/bot.musicendcommand.md)
 * [bot.musicStartCommand](obratnye-vyzovy/bot.musicstartcommand.md)
-* [Untitled](obratnye-vyzovy/untitled.md)
+* [bot.onBanAdd](obratnye-vyzovy/untitled.md)
+* [bot.onBanRemove](obratnye-vyzovy/bot.onbanremove.md)
 
 ## Функции
 
