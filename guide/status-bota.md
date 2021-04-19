@@ -8,7 +8,7 @@ description: Как поставить статус боту
 
 Это очень легко
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Вам нужно добавить это в основной файл
 {% endhint %}
 
