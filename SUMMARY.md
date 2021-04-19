@@ -55,4 +55,5 @@
 * [$addField](functions/usdaddfield.md)
 * [$addMessageReactions](functions/usdaddmessagereactions.md)
 * [$addReactions](functions/usdaddreactions.md)
+* [$addTimestamp](functions/usdaddtimestamp.md)
 
