@@ -48,5 +48,7 @@
 
 ## Функции <a id="functions"></a>
 
+* [$activity](functions/usdactivity.md)
+* [$abbreviate](functions/usdabbreviate.md)
 * [$allEmojiCount](functions/usdallemojicount.md)
 
