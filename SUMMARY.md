@@ -7,6 +7,7 @@
 * [Начало](guide/nachalo/README.md)
   * [Обработчик команд](guide/nachalo/untitled.md)
 * [Псевдонимы](guide/psevdonimy.md)
+* [Статус Бота](guide/status-bota.md)
 
 ## обратные вызовы <a id="callbacks"></a>
 
