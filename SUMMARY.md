@@ -16,6 +16,7 @@
 * [bot.onInviteCreate](obratnye-vyzovy/bot.oninvitecreate.md)
 * [bot.onInviteDelete](obratnye-vyzovy/bot.oninvitedelete.md)
 * [bot.onMemberUpdate](obratnye-vyzovy/bot.onmemberupdate.md)
+* [bot.onMessage](obratnye-vyzovy/bot.onmessage.md)
 
 ## Функции
 
