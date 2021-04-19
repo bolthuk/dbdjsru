@@ -9,6 +9,7 @@
 * [Псевдонимы](guide/aliases.md)
 * [Статус Бота](guide/botstatus.md)
 * [Переменные](guide/variables.md)
+* [Гиперссылка](guide/hyperlink.md)
 
 ## обратные вызовы <a id="callbacks"></a>
 
