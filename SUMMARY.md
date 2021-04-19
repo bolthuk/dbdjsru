@@ -32,6 +32,8 @@
 * [bot.onMessage](callbacks/bot.onmessage.md)
 * [bot.onMessageUpdate](callbacks/bot.onmessageupdate.md)
 * [bot.onMessageDelete](callbacks/bot.onmessagedelete.md)
+* [bot.onJoined](callbacks/bot.onjoined.md)
+* [bot.onLeave](callbacks/bot.onleave.md)
 
 ## Функции <a id="functions"></a>
 
