@@ -35,6 +35,8 @@
 * [bot.onJoined](callbacks/bot.onjoined.md)
 * [bot.onLeave](callbacks/bot.onleave.md)
 * [bot.onPresenceUpdate](callbacks/bot.onpresenceupdate.md)
+* [bot.onRateLimit](callbacks/bot.onratelimit.md)
+* [bot.onReactionAdd](callbacks/bot.onreactionadd.md)
 
 ## Функции <a id="functions"></a>
 
