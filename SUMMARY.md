@@ -51,5 +51,8 @@
 * [$activity](functions/usdactivity.md)
 * [$abbreviate](functions/usdabbreviate.md)
 * [$addCmdReactions](functions/usdaddcmdreactions.md)
-* [$allEmojiCount](functions/usdallemojicount.md)
+* [$addEmoji](functions/usdaddemoji.md)
+* [$addField](functions/usdaddfield.md)
+* [$addMessageReactions](functions/usdaddmessagereactions.md)
+* [$addReactions](functions/usdaddreactions.md)
 
