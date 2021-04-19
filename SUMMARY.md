@@ -42,6 +42,8 @@
 * [bot.onRoleDelete](callbacks/bot.onroledelete.md)
 * [Bot.onRoleUpdate](callbacks/bot.onroleupdate.md)
 * [bot.loopCommand](callbacks/bot.loopcommand.md)
+* [bot.onTypingStart](callbacks/bot.ontypingstart.md)
+* [bot.onUserUpdate](callbacks/bot.onuserupdate.md)
 
 ## Функции <a id="functions"></a>
 
