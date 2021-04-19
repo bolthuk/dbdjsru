@@ -6,6 +6,7 @@
 
 * [Начало](gaidy/nachalo/README.md)
   * [Обработчик команд](gaidy/nachalo/untitled.md)
+* [Псевдонимы](gaidy/psevdonimy.md)
 
 ## обратные вызовы <a id="callbacks"></a>
 
