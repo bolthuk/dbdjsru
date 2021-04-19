@@ -10,6 +10,9 @@
 * [Статус Бота](guide/botstatus.md)
 * [Переменные](guide/variables.md)
 * [Гиперссылка](guide/hyperlink.md)
+* [Шарды](guide/sharding.md)
+* [Права](guide/permissions.md)
+* [Музыка](guide/music.md)
 
 ## обратные вызовы <a id="callbacks"></a>
 
