@@ -10,6 +10,12 @@
 * [bot.onBanRemove](obratnye-vyzovy/bot.onbanremove.md)
 * [bot.onChannelCreate](obratnye-vyzovy/bot.onchannelcreate.md)
 * [bot.onChannelDelete](obratnye-vyzovy/bot.onchanneldelete.md)
+* [bot.onChannelUpdate](obratnye-vyzovy/bot.onchannelupdate.md)
+* [bot.onGuildJoin](obratnye-vyzovy/bot.onguildjoin.md)
+* [bot.onGuildLeave](obratnye-vyzovy/bot.onguildleave.md)
+* [bot.onInviteCreate](obratnye-vyzovy/bot.oninvitecreate.md)
+* [bot.onInviteDelete](obratnye-vyzovy/bot.oninvitedelete.md)
+* [bot.onMemberUpdate](obratnye-vyzovy/bot.onmemberupdate.md)
 
 ## Функции
 
