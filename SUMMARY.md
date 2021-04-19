@@ -2,11 +2,11 @@
 
 * [Вступление](README.md)
 
-## Гайды
+## Гайды <a id="guide"></a>
 
-* [Начало](gaidy/nachalo/README.md)
-  * [Обработчик команд](gaidy/nachalo/untitled.md)
-* [Псевдонимы](gaidy/psevdonimy.md)
+* [Начало](guide/nachalo/README.md)
+  * [Обработчик команд](guide/nachalo/untitled.md)
+* [Псевдонимы](guide/psevdonimy.md)
 
 ## обратные вызовы <a id="callbacks"></a>
 
