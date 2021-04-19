@@ -36,6 +36,12 @@
 * [bot.onPresenceUpdate](callbacks/bot.onpresenceupdate.md)
 * [bot.onRateLimit](callbacks/bot.onratelimit.md)
 * [bot.onReactionAdd](callbacks/bot.onreactionadd.md)
+* [bot.onReactionRemove](callbacks/bot.onreactionremove.md)
+* [bot.onReady](callbacks/bot.onready.md)
+* [bot.onRoleCreate](callbacks/bot.onrolecreate.md)
+* [bot.onRoleDelete](callbacks/bot.onroledelete.md)
+* [Bot.onRoleUpdate](callbacks/bot.onroleupdate.md)
+* [bot.loopCommand](callbacks/bot.loopcommand.md)
 
 ## Функции <a id="functions"></a>
 
