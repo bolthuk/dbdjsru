@@ -4,10 +4,11 @@
 
 ## Гайды <a id="guide"></a>
 
-* [Начало](guide/nachalo/README.md)
-  * [Обработчик команд](guide/nachalo/untitled.md)
-* [Псевдонимы](guide/psevdonimy.md)
-* [Статус Бота](guide/status-bota.md)
+* [Начало](guide/begin/README.md)
+  * [Обработчик команд](guide/begin/commandhandler.md)
+* [Псевдонимы](guide/aliases.md)
+* [Статус Бота](guide/botstatus.md)
+* [Переменные](guide/variables.md)
 
 ## обратные вызовы <a id="callbacks"></a>
 
