@@ -13,7 +13,6 @@
 * [Шарды](guide/sharding.md)
 * [Права](guide/permissions.md)
 * [Музыка](guide/music.md)
-* [Untitled](guide/untitled.md)
 
 ## обратные вызовы <a id="callbacks"></a>
 
