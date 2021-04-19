@@ -44,6 +44,7 @@
 * [bot.loopCommand](callbacks/bot.loopcommand.md)
 * [bot.onTypingStart](callbacks/bot.ontypingstart.md)
 * [bot.onUserUpdate](callbacks/bot.onuserupdate.md)
+* [bot.onVoiceStateUpdate](callbacks/bot.onvoicestateupdate.md)
 
 ## Функции <a id="functions"></a>
 
