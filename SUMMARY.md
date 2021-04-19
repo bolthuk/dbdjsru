@@ -13,6 +13,7 @@
 * [Шарды](guide/sharding.md)
 * [Права](guide/permissions.md)
 * [Музыка](guide/music.md)
+* [Untitled](guide/untitled.md)
 
 ## обратные вызовы <a id="callbacks"></a>
 
@@ -30,6 +31,7 @@
 * [bot.onMemberUpdate](callbacks/bot.onmemberupdate.md)
 * [bot.onMessage](callbacks/bot.onmessage.md)
 * [bot.onMessageUpdate](callbacks/bot.onmessageupdate.md)
+* [bot.onMessageDelete](callbacks/bot.onmessagedelete.md)
 
 ## Функции <a id="functions"></a>
 
