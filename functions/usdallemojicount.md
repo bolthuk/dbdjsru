@@ -1,17 +1,11 @@
----
-description: >-
-  Эта функция возвращает общее количество смайликов на сервере, в котором
-  находится бот
----
-
 # $allEmojiCount
 
-Использование:
+#### Использование
 
-```text
+```javascript
 bot.command({
 name: "emojiCount",
-code: `$allEmojiCount эмоций`
+code: `$allEmojiCount эмоций всего в боте`
 })
 ```
 

@@ -56,4 +56,8 @@
 * [$addMessageReactions](functions/usdaddmessagereactions.md)
 * [$addReactions](functions/usdaddreactions.md)
 * [$addTimestamp](functions/usdaddtimestamp.md)
+* [$allChannelsCount](functions/usdallchannelscount.md)
+* [$allEmojiCount](functions/usdallemojicount.md)
+* [$allMembersCount](functions/usdallmemberscount.md)
+* [$alwaysExecute](functions/usdalwaysexecute.md)
 
