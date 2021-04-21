@@ -63,4 +63,5 @@
 * [$argsCheck](functions/usdargscheck.md)
 * [$argsCount](functions/usdargscount.md)
 * [$attachment](functions/usdattachment.md)
+* [$author](functions/usdauthor.md)
 
