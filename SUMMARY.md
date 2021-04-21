@@ -64,4 +64,7 @@
 * [$argsCount](functions/usdargscount.md)
 * [$attachment](functions/usdattachment.md)
 * [$author](functions/usdauthor.md)
+* [$authorAvatar](functions/usdauthoravatar.md)
+* [$authorID](functions/usdauthorid.md)
+* [$awaitCmdReaction](functions/usdawaitcmdreaction.md)
 
