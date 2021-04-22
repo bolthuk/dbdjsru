@@ -68,4 +68,5 @@
 * [$authorID](functions/usdauthorid.md)
 * [$awaitCmdReaction](functions/usdawaitcmdreaction.md)
 * [$awaitMessages](functions/usdawaitmessages.md)
+* [$awaitReaction](functions/usdawaitreaction.md)
 
