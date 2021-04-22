@@ -69,4 +69,5 @@
 * [$awaitCmdReaction](functions/usdawaitcmdreaction.md)
 * [$awaitMessages](functions/usdawaitmessages.md)
 * [$awaitReaction](functions/usdawaitreaction.md)
+* [$awaitReactionsUntil](functions/usdawaitreactionsuntil.md)
 
