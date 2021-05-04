@@ -7,7 +7,7 @@ description: Эта страница поможет в начале создан
 ## Установка DBD.JS
 
 ```
-npm i dbd.js
+npm i aoi.js
 ```
 
 {% hint style="info" %}
@@ -17,9 +17,9 @@ npm i dbd.js
 ## Ваш основной файл server.js
 
 ```bash
-const dbd = require("dbd.js")
+const aoi = require("aoi.js")
  
-const bot = new dbd.Bot({
+const bot = new aoi.Bot({
   sharding: false, // true - есть шарды. false - нет шардов 
   shardAmount: 2, // Кол-во шардов 
   mobile: false, // true - Включить активность с телефона. false - Активность с ПК
@@ -37,7 +37,7 @@ code: `Понг! \`$ping\``
 
 ## package.json
 
-Файл, в который ваш проект может "попасть" dbd.js
+Файл, в который ваш проект может "попасть" aoi.js
 
 ```bash
 {
@@ -54,7 +54,7 @@ code: `Понг! \`$ping\``
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "dbd.js": "^3.0.2"
+      "aoi.js": "^1.0.5"
     }
   }
 ```
@@ -89,9 +89,9 @@ bot.status({
 * LISTENING - Слушает
 * COMPETING - Сражается
 
- Больше информации о статусах только в англ версии: [https://dbd.leref.ga/guide/bot-status](https://dbd.leref.ga/guide/bot-status)
+ Больше информации о статусах только в англ версии: [https://aoi.leref.ga/guide/bot-status](https://dbd.leref.ga/guide/bot-status)
 
-Весь гайд по началу. Для большей помощи вы можете зайти на сайт [https://dbd.leref.ga/](https://dbd.leref.ga/) или задать вопрос в \#помощь
+Весь гайд по началу. Для большей помощи вы можете зайти на сайт [https://aoi.leref.ga/](https://dbd.leref.ga/) или задать вопрос в \#помощь
 
 {% hint style="danger" %}
 Если вы используете glitch или repl.it или danbot   
