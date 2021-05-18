@@ -76,4 +76,7 @@
 * [$botOwnerID](functions/usdbotownerid.md)
 * [$botLastMessageID](functions/usdbotlastmessageid.md)
 * [$botLastMessageChannelID](functions/usdbotlastmessagechannelid.md)
+* [$botPing](functions/usdbotping.md)
+* [$boostingSince](functions/usdboostingsince.md)
+* [$blackListIDs](functions/usdblacklistids.md)
 
