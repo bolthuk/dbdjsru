@@ -9,9 +9,9 @@ description: Это позволит распределить команды
 Основной файл позволит запустить бота, а команды, которые будут сохранены, могут быть названы server.js, index.js все что захочешь
 
 ```text
-const dbd = require("dbd.js")
+const Aoijs = require("aoi.js")
  
-const bot = new dbd.Bot({
+const bot = new Aoijs.Bot({
  sharding: false, // true - есть шарды. false - нет шардов 
   shardAmount: 2, // Кол-во шардов 
   mobile: false, // true - Включить активность с телефона. false - Активность с ПК

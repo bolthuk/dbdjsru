@@ -70,4 +70,8 @@
 * [$awaitMessages](functions/usdawaitmessages.md)
 * [$awaitReaction](functions/usdawaitreaction.md)
 * [$awaitReactionsUntil](functions/usdawaitreactionsuntil.md)
+* [$ban](functions/usdban.md)
+* [$banCount](functions/usdbancount.md)
+* [$botCount](functions/usdbotcount.md)
+* [$botOwnerID](functions/usdbotownerid.md)
 

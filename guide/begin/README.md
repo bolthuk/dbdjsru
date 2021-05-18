@@ -17,9 +17,9 @@ npm i aoi.js
 ## Ваш основной файл server.js
 
 ```bash
-const aoi = require("aoi.js")
+const Aoijs = require("aoi.js")
  
-const bot = new aoi.Bot({
+const bot = new Aoijs.Bot({
   sharding: false, // true - есть шарды. false - нет шардов 
   shardAmount: 2, // Кол-во шардов 
   mobile: false, // true - Включить активность с телефона. false - Активность с ПК
@@ -60,7 +60,7 @@ code: `Понг! \`$ping\``
 ```
 
 {% hint style="warning" %}
-Для обновления DBD.JS, измените на последнюю версию из \#изменения
+Для обновления AOI.JS, измените на последнюю версию из \#изменения
 {% endhint %}
 
 ## Обычный шаблон команды
@@ -76,7 +76,7 @@ bot.command({
 
 ```bash
 bot.status({
-      text: "dbd.js",
+      text: "aoi.js",
       type: "PLAYING",
       time: 12
 })
@@ -95,7 +95,7 @@ bot.status({
 
 {% hint style="danger" %}
 Если вы используете glitch или repl.it или danbot   
-Не используйте npm i dbd.js   
+Не используйте npm i aoi.js   
 Ваш package.json, Всё установит сам!
 {% endhint %}
 
