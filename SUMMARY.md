@@ -74,4 +74,6 @@
 * [$banCount](functions/usdbancount.md)
 * [$botCount](functions/usdbotcount.md)
 * [$botOwnerID](functions/usdbotownerid.md)
+* [$botLastMessageID](functions/usdbotlastmessageid.md)
+* [$botLastMessageChannelID](functions/usdbotlastmessagechannelid.md)
 
